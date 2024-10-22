@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/three_body_problem_bar.jpg
+cover: .gitbook/assets/3.Body.Problem_Xanadu_ext.jpg
 coverY: 0
 layout:
   cover:
@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
