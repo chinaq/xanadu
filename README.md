@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/three_body_problem_karakterposzterek4.jpg
-coverY: 707.3628305400372
+cover: .gitbook/assets/three_body_problem_bar.jpg
+coverY: 0
 layout:
   cover:
     visible: true
