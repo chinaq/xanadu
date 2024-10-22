@@ -11,3 +11,5 @@ GitBook allows you to add images and media easily to your docs. Simply drag a fi
 {% hint style="info" %}
 You can also add images simply by copying and pasting them directly into the editor — and GitBook will automatically add it to your file manager.
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/three_body_problem_karakterposzterek4.jpg" alt=""><figcaption></figcaption></figure>
