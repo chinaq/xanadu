@@ -1,11 +1,11 @@
 ---
 icon: hand-wave
 cover: .gitbook/assets/three_body_problem_karakterposzterek4.jpg
-coverY: 697.7094972067039
+coverY: 707.3628305400372
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
