@@ -13,3 +13,5 @@ You can also add images simply by copying and pasting them directly into the edi
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/three_body_problem_karakterposzterek4.jpg" alt=""><figcaption></figcaption></figure>
+
+![3b](../.gitbook/assets/three_body_problem_karakterposzterek4.jpg)
