@@ -4,6 +4,7 @@
 
 ## Getting Started
 
+* [Macro Polo](xanadu/01_marco_polo.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
