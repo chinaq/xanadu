@@ -19,3 +19,5 @@ You can also add images simply by copying and pasting them directly into the edi
 <figure><img src="../.gitbook/assets/three_body_problem_karakterposzterek4.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/three_body_problem_karakterposzterek4.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/3.Body.Problem_Xanadu_ext.jpg" alt="" width="375"><figcaption></figcaption></figure>

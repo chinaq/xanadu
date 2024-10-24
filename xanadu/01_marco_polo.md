@@ -1,18 +1,37 @@
+---
+description: 名叫馬可波羅的人
+icon: route
+cover: ../.gitbook/assets/marcopolo_tv.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-![my_name_zhang](./img/zhangsongwen/my_name_zhang.jpg)
+# Macro Polo
 
-![marco_in_china](./img/zhangsongwen/marco_in_china.jpg)
+![my\_name\_zhang](img/zhangsongwen/my\_name\_zhang.jpg)
 
-![marco_in_prison](./img/zhangsongwen/macro_in_prison.jpg)
+![marco\_in\_china](img/zhangsongwen/marco\_in\_china.jpg)
 
-![marco_books](./img/zhangsongwen/marco_books.jpg)
+![marco\_in\_prison](img/zhangsongwen/macro\_in\_prison.jpg)
 
-![3body](./img/zhangsongwen/3body_in_popular.jpg)
+![marco\_books](img/zhangsongwen/marco\_books.jpg)
 
-
+![3body](img/zhangsongwen/3body\_in\_popular.jpg)
 
 【张颂文北京文化论坛最新演讲，全程脱稿，声音好听：中国影视全球化传播中的演员责任-哔哩哔哩】 https://b23.tv/9zkFkz2
-
 
 2024年9月20日，北京文化论坛，高启强老师全程脱稿演讲，讲述了中意文化交流，文化开放的重要性，获得盛赞。
 
@@ -20,96 +39,81 @@
 
 寻着高老师的演讲，一起来探索马可波罗游记的变迁。
 
-## 从马克·波罗到三体
+### 从马克·波罗到三体
 
-如[序章]()所述，netflix 版《三体》中的人列计算机场景由秦始皇变为忽必烈，并给出了地点：上都。这上都在西方神圣地位的确认，第一步便是来自马可波罗的叙述。
+如[序章](01\_marco\_polo.md)所述，netflix 版《三体》中的人列计算机场景由秦始皇变为忽必烈，并给出了地点：上都。这上都在西方神圣地位的确认，第一步便是来自马可波罗的叙述。
 
-在马可波罗回到威尼斯几个月后，威尼斯派出了一支远征队去攻击热那亚舰队，据说马可·波罗指挥了一艘战舰。1298 年 9 月发生了一场战斗，威尼斯舰队被击败，马可·波罗在试图挽救局势时表现出极大的勇气，但被击伤并被俘。他被送到热那亚。[^1931]
+在马可波罗回到威尼斯几个月后，威尼斯派出了一支远征队去攻击热那亚舰队，据说马可·波罗指挥了一艘战舰。1298 年 9 月发生了一场战斗，威尼斯舰队被击败，马可·波罗在试图挽救局势时表现出极大的勇气，但被击伤并被俘。他被送到热那亚。
 
-在热那亚的监狱中，马可·波罗遇到了一位职业浪漫小说作家，来自比萨同为囚犯的鲁斯蒂切洛（Rustichello）；它并不是马可·波罗旅行的故事，而是“被称为世界描述和奇异事物的书”，是科学地理学的先驱。它是对中世纪亚洲大部分地区的严肃而宝贵的描述，逐国逐城，夹杂着一些讲得很好的故事 —— 但这些故事并不是马可·波罗旅行的故事。[^1938]
+在热那亚的监狱中，马可·波罗遇到了一位职业浪漫小说作家，来自比萨同为囚犯的鲁斯蒂切洛（Rustichello）；它并不是马可·波罗旅行的故事，而是“被称为世界描述和奇异事物的书”，是科学地理学的先驱。它是对中世纪亚洲大部分地区的严肃而宝贵的描述，逐国逐城，夹杂着一些讲得很好的故事 —— 但这些故事并不是马可·波罗旅行的故事。
 
-“几个月内整个意大利都充满了它”，但这种流行并没有让原始文本被保存下来。[^1938]
+“几个月内整个意大利都充满了它”，但这种流行并没有让原始文本被保存下来。
 
-从 13 世纪开始，各种语言各种版本的马可波罗游记不断出现，有法语、法意混合语、威尼斯语、托斯卡纳语、英语、德语、拉丁语等，数不胜数。直到 1871 年，英国人汉学家亨利·尤尔（Henry Yule）出版了他的英译本《马可·波罗游记》[^1871]，开启了对众多版本的系统整理。
+从 13 世纪开始，各种语言各种版本的马可波罗游记不断出现，有法语、法意混合语、威尼斯语、托斯卡纳语、英语、德语、拉丁语等，数不胜数。直到 1871 年，英国人汉学家亨利·尤尔（Henry Yule）出版了他的英译本《马可·波罗游记》，开启了对众多版本的系统整理。
 
-## Henry Yule
+### Henry Yule
 
-<figure>
-  <img src="../.gitbook/assets/01_marco_polo/1871-en_yule_cover.jpg" alt="" width="188">
-  <figcaption>
-    <p>THE BOOK OF SER MARCO POLO</p>
-  </figcaption>
-</figure>
+<figure><img src="../.gitbook/assets/01_marco_polo/1871-en_yule_cover.jpg" alt="" width="188"><figcaption><p>THE BOOK OF SER MARCO POLO</p></figcaption></figure>
 
-Yule 将马可波罗的文本分为四种主要类型[^1871]：
-- (1) 地理文本或最古老的法语文本。
-  - 巴黎国家图书馆的珍贵手稿 fr. 1116（原名7367）。它于1824年由法国地理学会出版，自那时起被称为《地理文本》。地理文本中拥有的是旅行者原始记录的几乎完全准确的抄本，这些记录是在热那亚的监狱中记录下来的。[^1929]
-- (2) 重新编辑的法语文本；颇节（Pauthier）采用此文本。
-  - 一个经过修剪和精炼的版本，可能是根据马可·波罗的指示，但准确性存疑。法国汉学家颇节曾对这类手稿进行研究整理，并出版了他编辑的法语版本。
-- (3) 皮皮诺（Pipino）的拉丁文本。
-  - 这个粗糙的拉丁文版本是从一个意大利副本翻译过来的。皮皮诺的版本似乎是在波罗生命的晚年完成的。
-- (4) 拉穆西奥（Ramusio）的意大利文本。
-  - 在拉穆西奥版本中嵌入了旅行者在其生命晚期记录下来的补充回忆，但这些回忆被多次翻译、编纂和编辑处理。拉穆西奥还从用了那些仅在他的版本中找到的段落。
+Yule 将马可波罗的文本分为四种主要类型：
 
+* (1) 地理文本或最古老的法语文本。
+  * 巴黎国家图书馆的珍贵手稿 fr. 1116（原名7367）。它于1824年由法国地理学会出版，自那时起被称为《地理文本》。地理文本中拥有的是旅行者原始记录的几乎完全准确的抄本，这些记录是在热那亚的监狱中记录下来的。
+* (2) 重新编辑的法语文本；颇节（Pauthier）采用此文本。
+  * 一个经过修剪和精炼的版本，可能是根据马可·波罗的指示，但准确性存疑。法国汉学家颇节曾对这类手稿进行研究整理，并出版了他编辑的法语版本。
+* (3) 皮皮诺（Pipino）的拉丁文本。
+  * 这个粗糙的拉丁文版本是从一个意大利副本翻译过来的。皮皮诺的版本似乎是在波罗生命的晚年完成的。
+* (4) 拉穆西奥（Ramusio）的意大利文本。
+  * 在拉穆西奥版本中嵌入了旅行者在其生命晚期记录下来的补充回忆，但这些回忆被多次翻译、编纂和编辑处理。拉穆西奥还从用了那些仅在他的版本中找到的段落。
 
-
-``` nomnoml
+```nomnoml
 [F  | 法意混合语]
 [FG | 宫廷法语]
 [P | 拉丁语 by Pipno]
 [R | 意大利语 by Ramusio]
 ```
 
-Yule 在 1871 年出版的《马可·波罗游记》中，是对法语版本的英文翻译，但是他未使用 fr. 1116，而是使用了颇节（Pauthier）的所整理过的宫廷法语版本。尽管 Yule 承认 fr. 1116 是最好的文本，但他认为其语言的笨拙和冗长使其无法使用。[^1929]
+Yule 在 1871 年出版的《马可·波罗游记》中，是对法语版本的英文翻译，但是他未使用 fr. 1116，而是使用了颇节（Pauthier）的所整理过的宫廷法语版本。尽管 Yule 承认 fr. 1116 是最好的文本，但他认为其语言的笨拙和冗长使其无法使用。
 
-## Benedetto
+### Benedetto
 
-[BENEDETTO, Luigi Foscolo](https://www.treccani.it/enciclopedia/luigi-foscolo-benedetto_(Dizionario-Biografico)/), di Renato Bertacchini,Dizionario Biografico degli Italiani - Volume 34 (1988)
+[BENEDETTO, Luigi Foscolo](https://www.treccani.it/enciclopedia/luigi-foscolo-benedetto\_\(Dizionario-Biografico\)/), di Renato Bertacchini,Dizionario Biografico degli Italiani - Volume 34 (1988)
 
-最为重要的研究者，L. F. 贝内代托（L. F. Benedetto）教授的期待已久的著作在佛罗伦萨出版，首次对手稿进行了正确的分类和归类。
-Benedetto 不仅将 Yule 和 Cordier手稿列表从78增加到138，还发现了一份包含许多拉穆西奥（Ramusio）使用的段落的副本，其来源之前不为人知。
+最为重要的研究者，L. F. 贝内代托（L. F. Benedetto）教授的期待已久的著作在佛罗伦萨出版，首次对手稿进行了正确的分类和归类。 Benedetto 不仅将 Yule 和 Cordier手稿列表从78增加到138，还发现了一份包含许多拉穆西奥（Ramusio）使用的段落的副本，其来源之前不为人知。
 
 Benedetto 还对最著名的手稿 fr. 1116 的文本进行编辑，附有文本注释和其他手稿中的重要段落。
 
-- 引言：手稿传统
-  - 第一章 法语-意大利语版本（F）
-  - 第二章 Grégoire的修订（FG）
-  - 第三章 最古老的托斯卡纳版本（TA）
-  - 第四章 威尼斯版本（VA）
-  - 第五章 Fra Pipino的版本
-  - 第六章 F之前的阶段
-  - 第七章 回响和片段
-  - 结论
+* 引言：手稿传统
+  * 第一章 法语-意大利语版本（F）
+  * 第二章 Grégoire的修订（FG）
+  * 第三章 最古老的托斯卡纳版本（TA）
+  * 第四章 威尼斯版本（VA）
+  * 第五章 Fra Pipino的版本
+  * 第六章 F之前的阶段
+  * 第七章 回响和片段
+  * 结论
 
 结论注释中：
+
 > (1) 在多次引用的清单中，尤尔列出的手稿有85份，但必须删除编号21、28、57、61、62、72、77、81、83，因为它们要么是纯粹的幻想，要么是目前已散失，要么是存在尚未充分证明。科迪埃的附加清单中，只有2份手稿是相对于之前清单的真正新增。
 
 Benedetto 对手稿进行了系统的分类，但在最后的结论阶段的文字表述却没有那么直接了当。
 
 第二年，另一位学者 Penzer 编辑并重印了 John Frampton 的英译版《马可波罗游记》。在该书的序言中，Penzer 详细介绍了 Benedetto 的工作，并做了自己的总结。
 
-
 我们将按以下标题讨论手稿：
+
 1. 地理文本（fr. 1116）。
 2. 格雷戈尔版本。
 3. 托斯卡纳版本。
 4. 威尼斯版本。
 5. 拉穆西奥版本和前F阶段。
 
+通过这样简要地回顾了五个主要组，感谢Benedetto的努力，我们现在可以将波罗文本分为以下几组： (1) 巴黎国家图书馆的fr. 1116是传给我们的最好的波罗手稿。 (2) 它并不代表热那亚原始版本的直接副本，而是一个后期版本，它与其三个兄弟手稿F1、F2、F3一起，描述了一个更早的、现已失传的共同法语-意大利语手稿。 (3) F1、F2、F3分别派生出Grégoire、托斯卡纳和威尼斯版本的失传原型（FG、TA、VA）。 (4) 其中VA是最大和最重要的，Santaella的卡斯蒂利亚版本是从其中一个子组的手稿中制作的。 (5) 存在一个前F阶段，目前仅由Z、L、V和VB代表。 (6) 拉穆西奥的版本基于Pipino，并从所有前F阶段的手稿中获得额外的帮助，如上所述。他还使用了一个或多个目前尚未发现的其他手稿。 (7) 因此，马可·波罗旅行的最完整记述由fr. 1116作为基础，补充了拉穆西奥以及其他手稿中的一些独特段落。
 
+### adlo ricci
 
-通过这样简要地回顾了五个主要组，感谢Benedetto的努力，我们现在可以将波罗文本分为以下几组：
-  (1) 巴黎国家图书馆的fr. 1116是传给我们的最好的波罗手稿。
-  (2) 它并不代表热那亚原始版本的直接副本，而是一个后期版本，它与其三个兄弟手稿F1、F2、F3一起，描述了一个更早的、现已失传的共同法语-意大利语手稿。
-  (3) F1、F2、F3分别派生出Grégoire、托斯卡纳和威尼斯版本的失传原型（FG、TA、VA）。
-  (4) 其中VA是最大和最重要的，Santaella的卡斯蒂利亚版本是从其中一个子组的手稿中制作的。
-  (5) 存在一个前F阶段，目前仅由Z、L、V和VB代表。
-  (6) 拉穆西奥的版本基于Pipino，并从所有前F阶段的手稿中获得额外的帮助，如上所述。他还使用了一个或多个目前尚未发现的其他手稿。
-  (7) 因此，马可·波罗旅行的最完整记述由fr. 1116作为基础，补充了拉穆西奥以及其他手稿中的一些独特段落。
-
-## adlo ricci
 1931 年，Denison Ross，出版了 Aldo Ricci 未能完成的，Benedetto 意大利语版本的英译本。书中，Ross 详细介绍了 Benedetto 的工作，提出了 Group A 和 Group B 的概念。
-
 
 几乎所有我们知道的手稿和早期印刷版本都可以归入两个主要类别；即A组，类似于所谓的巴黎地理文本，和B组，与拉穆西奥在1559年（他去世后两年）印刷的意大利版本相关。
 
@@ -119,28 +123,26 @@ B组由拉穆西奥、某些威尼斯手稿和最近在米兰安布罗西亚图�
 
 尽管剩下的三分之二忠实地再现了fr. 1116的文本，在它们重合的地方。它包含了A组中没有的200个段落，其中三分之二在拉穆西奥中找到，他显然有一个“兄弟”的“Z”在他面前。但Z码显然不是拉穆西奥所说的属于吉西家族的“奇妙古物”的拉丁手稿，他认为这可能是原始手稿的副本，因为拉穆西奥中有很多内容在其他已知版本和“Z”中都找不到。“Z”的原始手稿据说在托莱多，但贝内德托教授无法获得任何消息，直到这份手稿出现，米兰的副本必须被谨慎对待。
 
-## 最后 Moule 和 Pelliot
-沿用了 A 组和 B 组的描述，并使用了新发现的 Z 手稿，抄本也扩展到了 143 份。
-所有类型分成了 7 个子组，分别是：
+### 最后 Moule 和 Pelliot
 
-- List
-  - FRANCO-ITALIAN(F)
-  - COURT FRENCH(FG)
-  - TUSCAN VERSION(TA)
-  - VENETIAN VERSION(VA) - and Retrasnlations
-  - LATION VERSION BY PIPINO(P) - made from VA
-  - MANUSCRIPTS BASED ON A TEXT EARLIER THAN F
-    - Z, R
-  - UNCLASSIFIED
+沿用了 A 组和 B 组的描述，并使用了新发现的 Z 手稿，抄本也扩展到了 143 份。 所有类型分成了 7 个子组，分别是：
 
+* List
+  * FRANCO-ITALIAN(F)
+  * COURT FRENCH(FG)
+  * TUSCAN VERSION(TA)
+  * VENETIAN VERSION(VA) - and Retrasnlations
+  * LATION VERSION BY PIPINO(P) - made from VA
+  * MANUSCRIPTS BASED ON A TEXT EARLIER THAN F
+    * Z, R
+  * UNCLASSIFIED
 
 ![o-tree](img/o-tree.png)
 
-
 以下清单并不声称具有原创性，而只是以表格形式记录了Benedetto在1928年分类和描述的手稿，以及自那时以来发现的其他一些手稿。似乎有必要用“宫廷法语”替代“格里高利亚版本”，同时保留字母FG，并将Ghisi手稿（我们对其一无所知）移至第七类，我不得不冒着引起一些混乱的风险，将索引字母Z和7互换。但除此之外，我紧密遵循了Benedetto的分类和命名，而不因此就同意他的每一个观点。除非后面跟有“上文”或“下文”，否则参考文献均指Professor Benedetto的《7/ Milione》，1928年。
 
-
 以下是转写自注释：
+
 > Moule 和 Pelliot 一共整理了 150 个版本，扣除 7 个印刷版本、6 个印刷版本的副本（57-60, 122, 125）、3 个存疑项（112, 113, 139）以及 15 个摘要和摘录（24-29, 129-133, 135, 137, 138, 143）；剩下 119 项，其中一些是不完整的，一些只是片段。但这些片段、摘录，甚至印刷版本（特别是Ramusio）可能是确定文本的有价值的原始权威。
 
 xxx 的图书简介中，表述 Gadrat-Ouerfelli 发现了八份新手稿，使总数达到141份。那么按这个统计，是否基于 119 项目，
@@ -149,66 +151,57 @@ xxx 的图书简介中，表述 Gadrat-Ouerfelli 发现了八份新手稿，使�
 
 或者说，现在的疑问是，是有这么一个马可波罗手稿的标准委员会，进行版本的确认和划分，并且具有较高权威性，获得大多数专家的认同。
 
-## 阶段
-- Yule
-  - 有列表、未系统分类、有总体谱系图
-- Benedetto
-  - 无列表、有系统分类、有局部谱系
-  - 图书基于 Yule
-  - 在另两部书籍中，进一步分为 AB 组，但仍无图
-- Moule 和 Pelliot
-  - 有列表、延续 Benedetto 系统分类、无谱系图
-- 新文章中有多谱系图
+### 阶段
 
-真的是接力赛。
-始于诞辰 700，今年逝世 700。
+* Yule
+  * 有列表、未系统分类、有总体谱系图
+* Benedetto
+  * 无列表、有系统分类、有局部谱系
+  * 图书基于 Yule
+  * 在另两部书籍中，进一步分为 AB 组，但仍无图
+* Moule 和 Pelliot
+  * 有列表、延续 Benedetto 系统分类、无谱系图
+* 新文章中有多谱系图
 
-## 年龄
+真的是接力赛。 始于诞辰 700，今年逝世 700。
+
+### 年龄
 
 Marco Polo, 1254—1324
 
-- 阶段一
-  - Henry Yule, 1820-1889
-    - 有女儿纪念文
-  - Henri Cordier, 1849-1925
-    - 有期刊纪念文，Pelliot 写
-- 阶段二
-  - E. Denison Ross, 1871-1940
-  - A. C. Moule, 1873–1957 
-    - 有期刊纪念文
-  - Paul Pelliot, 1878-1945
-    - 有传记
-  - L. F. Benedetto, 1886-1966
-    - 只有意大利百科词典
+* 阶段一
+  * Henry Yule, 1820-1889
+    * 有女儿纪念文
+  * Henri Cordier, 1849-1925
+    * 有期刊纪念文，Pelliot 写
+* 阶段二
+  * E. Denison Ross, 1871-1940
+  * A. C. Moule, 1873–1957
+    * 有期刊纪念文
+  * Paul Pelliot, 1878-1945
+    * 有传记
+  * L. F. Benedetto, 1886-1966
+    * 只有意大利百科词典
 
-## 手稿数量
-- co-yu: 73 -> 85
-- benedetto: 78 + 60
-- moule: 150, 143, 119
-- dutschke, 1993: 135
-- gadrat, 2015: 141
-- venice, 2024: 145
+### 手稿数量
+
+* co-yu: 73 -> 85
+* benedetto: 78 + 60
+* moule: 150, 143, 119
+* dutschke, 1993: 135
+* gadrat, 2015: 141
+* venice, 2024: 145
 
 ? 那么必然有一篇 145 的文章，但是展望中也没有提及
 
-- 文章，关于版本
-  - 意大利书 Marco Polo Research Past, Present, Future
-    - 含文章 Philippe Ménard, Recherches passées, travaux récents et investigations futures
-sur le Devisement du monde de Marco Polo
+* 文章，关于版本
+  * 意大利书 Marco Polo Research Past, Present, Future
+    * 含文章 Philippe Ménard, Recherches passées, travaux récents et investigations futures sur le Devisement du monde de Marco Polo
 
-## 新发现
+### 新发现
+
 感谢好友张婕老师的推荐，发布了有关上图的马可波罗展览和讲座消息。正巧搜索相关资料时，发现了威尼斯大学的一篇文章，惊奇地发现了第 145 份《马可波罗游记》的手稿。 Moule 和 Pelliot 的共发现整理了 143 份手稿。兴奋之余，就想那么第 144 份的手稿呢？在两个小时的搜索后毫无结果，只好放弃。
 
 在无可奈何的情况下开始搜索相关论文集，一开始找到较为科普的文集《xxx》，结果页面上推荐了一本《YYY》文集，打开一看，里面有一篇《zzz》。哇！在找到这篇文章前，我一直想在斗个地方肯定存在某一文章，使用某一语言，系统地描绘了 143 所有手稿的分类和描述。结果它就这么出现了，而且更进一步描述了后续的分类发展。再有便是文中介绍了 f 编号的，手稿残本。虽然没有明确表示是 144 号手稿，到时以我当前的检索信息，是最可能被视为 144 号手稿的。
 
 妙！感谢张老师！
-
-
-
-[^1871]: Henry Yule, The Book of Ser Marco Polo, 1871
-[^1929]: John Frampton & N. M. Penzer, The Most Noble and Famous Travels of Marco Polo, 1929
-[^1931]: Aldo Ricci & Denison Ross & Benedetto, Marco Polo: The Description of the World, 1931
-[^1938]: A. C. Moule & Paul Pelliot, Marco Polo: The Description of the World, Volume 1, 1938
-
-
-[^marco_and_yuan]: 马晓林，《马可·波罗与元代中国》，中西书局，2018-9
