@@ -33,7 +33,7 @@ a hole sentence.
 
 [^1]: very version x.
 
-[^2]: this is y 0
+[^2]: 
 
 [^3]: x for 0
 
