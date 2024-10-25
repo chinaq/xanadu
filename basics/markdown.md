@@ -30,6 +30,9 @@ If you have multiple files, GitBook makes it easy to import full repositories to
 
 test for ref[^t1]
 
+a hole sentence.[^t2]
+
+[^t2]: test for ref
 
 [^t1]: test for ref
 
