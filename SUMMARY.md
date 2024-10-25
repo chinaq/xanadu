@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-* [Macro Polo](xanadu/01_marco_polo.md)
+* [马可波罗游记的研究](xanadu/01_init_marco.md)
 * [Quickstart](getting-started/quickstart.md)
 * [Publish your docs](getting-started/publish-your-docs.md)
 
