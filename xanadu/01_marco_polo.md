@@ -74,7 +74,7 @@ layout:
 
 他通过当时新开通的陆路前往印度，访问了葡萄牙，在直布罗陀停留，拜访了他的表兄帕特里克·尤尔少校（后来成为将军）。他奉命“在也门的亚丁（当时刚刚被占领）停留，报告水源供应情况，并交付一套气象和磁性仪器，以便在那里开设一个天文台。当时的陆路旅行是这样的：骑着骆驼和阿拉伯人一起穿越沙漠到苏伊士。但这种行程不利于保护精密仪器。到达亚丁后，他发现预定的观察员已经去世，天文台尚未开始建设，所有仪器都已损坏。因此，他别无选择，只能立即继续前往”印度的加尔各答，他在1840年底到达那里。那一年尤尔 20 岁。
 
-
+亨利的两个哥哥也都在印度工作。老大乔治·乌德尼·尤尔（George Udny Yule，1813-1886 年）在孟加拉公务员部门工作。另一个哥哥罗伯特（1817-1857 年）后来在印度叛乱期间在德里附近去世。
 
 
 结婚
@@ -91,19 +91,11 @@ layout:
 
 当他回到印度，“副官蒙罗上尉简直不敢相信我出席了威灵顿公爵的葬礼，几天前他在报纸上读到了葬礼”。报纸?!而我，一名见证者，一名客人，来到这片山间荒野——这时距离我离开英国已有 2 个半月了。”
 
----
 
-In the autumn of 1856, Yule took leave and came home. Much of his time while in England was occupied with making arrangements for the production of an improved edition of his book on Burma, which so far had been a mere government report. These were completed to his satisfaction, and on the eve of returning to India, he wrote to his publishers[41] that the correction of the proof sheets and general supervision of the publication had been undertaken by his friend the Rev. W. D. Maclagan, formerly an officer of the Madras army (and now Archbishop of York).
-1856年秋天，尤尔请假回家。他在英国的大部分时间都忙于安排他关于缅甸的书的改进版的制作，到目前为止，这本书还只是一份政府报告。这些工作的完成令他满意，在返回印度前夕，他写信给他的出版商[41] ，校样的更正和出版物的总体监督是由他的朋友WD Maclagan牧师（前身）承担的。马德拉斯军队的军官（现在是约克大主教）。
-
-Whilst in England, Yule had renewed his intimacy with his old friend Colonel Robert Napier, then also on furlough, a visitor whose kindly sympathetic presence always brought special pleasure also to Yule’s wife and child. One result of this intercourse was that the friends decided to return together to India. Accordingly they sailed from Marseilles towards the end of April, and at Aden were met by the astounding news of the outbreak of the Mutiny.
-在英国期间，尤尔与他的老朋友罗伯特·纳皮尔上校恢复了亲密关系，当时他也在休假，这位访客的友善和同情的存在总是给尤尔的妻子和孩子带来特别的快乐。这次交往的结果之一是朋友们决定一起返回印度。因此，他们于四月底从马赛启航，在亚丁听到了叛乱爆发的惊人消息。
-
-Baker, whilst large-minded in great matters, was extremely conventional in small ones, and Yule must sometimes have tried his feelings in this respect. The particulars of one such tragic occurrence have survived. Yule, who was colour-blind,[46] and in
-贝克虽然在大事上胸怀大志，但极其传统 在小事情上，尤尔一定有时会在这方面尝试过他的感受 尊重。此类悲惨事件的细节至今仍被保留下来。 尤尔（Yule），色盲， [46]learly life whimsically obstinate in maintaining his own view of colours, had selected some cloth for trousers undeterred by his tailor’s timid remonstrance of “Not quite your usual taste, sir.” The result was that the Under-Secretary to Government startled official Calcutta by appearing in brilliant claret-coloured raiment. Baker remonstrated: “Claret-colour! Nonsense, my trousers are silver grey,” said Yule, and entirely declined to be convinced. “I think I did convince him at last,” said Baker with some pride, when long after telling the story to the present writer. “And then he gave them up?” “Oh, no,” said Sir William ruefully, “he wore those claret-coloured trousers to the very end.” That episode probably belonged to the Dalhousie period.
-早年的生活异想天开地固执 保持自己对颜色的看法，选择了一些裤子布料 裁缝的胆怯的抗议“不完全是你平常的做法”并没有吓倒他 尝尝，先生。”结果让政府副部长吓了一跳 穿着鲜艳的深紫红色服装出现在加尔各答官方。贝克 抗议道：“紫红色！废话，我的裤子是银灰色的。” 尤尔完全不相信。 “我想我确实说服了他 终于，”在讲完这个故事很久之后，贝克有些自豪地说 给现在的作者。 “然后他就把它们放弃了？” “噢，不，”先生说。 威廉遗憾地说道：“他一直穿着那条酒红色的裤子。” 那一集可能属于达尔豪斯时期。
+尤尔是色盲，年轻时固执地坚持自己对颜色的看法，他选择了一些布料做裤子，尽管他的裁缝胆怯地抗议说：“这不太符合您平时的品味，先生。”结果是，作为政府副秘书长（Under-Secretary to Government）的尤尔穿着鲜艳的酒红色裤子，震惊了加尔各答的官方人士。好友贝克也对尤尔提出异议。“酒红色！胡说，我的裤子是银灰色的，”尤尔强力反驳道。“我想我最终说服了他，”贝克在很久之后向尤尔的女儿讲述这个故事时自豪地说。“那他放弃了吗？”“哦，没有，”
 
 ---
+
 
 
 In the spring of 1859 Yule felt the urgent need of a rest, and
@@ -114,55 +106,40 @@ In the spring of 1859 Yule felt the urgent need of a rest, and
 
 #### 退役
 
-Lord Canning and Yule left Calcutta late in March, 1862; at Malta they parted never to meet again in this world. Lord Canning proceeded to England, and Yule joined his wife and child in Rome. Only a few weeks later, at Florence, came as a thunderclap the announcement of Lord Canning’s unexpected death in London, on 17th June. Well does the present writer remember the day that fatal news came, and Yule’s deep anguish, not assuredly for the loss of his prospects, but for the loss of a most noble and magnanimous friend, a statesman whose true greatness was, both then and since, most imperfectly realised by the country for which he had worn himself out.[50] Shortly after Yule went to England,[51] where he was cordially received by Lord Canning’s representatives, who gave him a touching remembrance
-坎宁勋爵和尤尔于 1862 年 3 月下旬离开加尔各答；在马耳他他们 分开了，在这个世界上就不再相见了。坎宁勋爵继续 英国，尤尔在罗马与他的妻子和孩子团聚。只有几周的时间 后来，在佛罗伦萨，主的宣布如雷鸣般传来。 6 月 17 日，坎宁在伦敦意外去世。现在很好 作者记得致命消息传来的那一天，以及尤尔深深的痛苦， 肯定不是因为失去了他的前景，而是因为失去了最重要的 高贵而宽宏的朋友，一位政治家，其真正的伟大之处在于， 从那时起以及从那时起，他所服务的国家最不完美地实现了 把自己累坏了。 [50]圣诞节过后不久 到英国， [51]在那里他 受到坎宁勋爵代表的热情接待，并授予他 感人的回忆
+尤尔在加尔各答与他的上司坎宁勋爵（Lord Canning）建立了深厚的友谊，以致于当坎宁退休时，他邀请尤尔陪他回到家乡，他的影响力将为尤尔找到合适的工作。尤尔对印度的厌倦在这个时候达到了极点。此外，在为坎宁勋爵以及再前任的达尔豪西勋爵（Lord Dalhousie）这样的领导人服务，并赢得他们的全部信任和友谊之后，重新开始与新人合作，对他来说几乎是不可忍受的。
+
+坎宁勋爵和尤尔于1862年3月底离开加尔各答；尤尔时年 42 岁；在马耳他，他们分别。坎宁勋爵前往英国，尤尔在罗马与妻子和孩子团聚。几周后，在佛罗伦萨，传来了坎宁勋爵在伦敦意外去世的消息，时间是1862年6月17日。那天传来的致命消息，以及尤尔的深切悲痛，不是因为失去了他的前途，而是因为失去了一位最高尚和宽宏大量的朋友。不久之后，尤尔去了英国，在那里他受到了坎宁勋爵代表的热情接待，他们给了他一份感人的纪念品，坎宁勋爵写字台上习惯放置的银质旅行烛台。但他撰写坎宁勋爵传记的提议没有结果，因为亲属们，拒绝出版任何回忆录。
+
+
+
+
+在1864年春天，尤尔租下了一座宽敞且迷人的老别墅，位于意大利托斯卡纳的卢卡温泉（Bagni di Lucca）的最高处。这座别墅俯瞰着周围的栗树覆盖的山丘和蜿蜒的河流，景色非常美丽。
+
+在这里，他写了很多最终形成《契丹与通往契丹的道路》（Cathay and the Way Thither）的内容。这个夏天，尤尔还开始在威尼斯档案馆进行调查，并访问了弗留利省，寻找他的老旅行家之一，贝阿托·奥多里科（Beato Odorico）的历史材料。1866年春天，《契丹与通往契丹的道路》出版了，并立即获得了好评。
+
+
+在1867年，尤尔开始系统地工作，准备出版他长期计划的马可·波罗游记的新版本。显然，这个计划在这一年首次成形，但它已经在他的脑海中酝酿了很久。
+
+他习惯于早起；夏天，他有时会去海里游泳，或者在早餐前散步；更常见的是，他会一直写作到早餐时间，他喜欢独自用餐。早餐后，他会翻阅他的笔记本，通常在十点钟之前快速步行到图书馆，那里是他工作的地方。他会在那里工作到下午两三点钟，然后回家，阅读《泰晤士报》，回复信件，接待或拜访朋友，然后继续他的书的工作，通常在家里其他人都睡着后很久才结束。在这种情况下，他的家人很少见到他，但当他完成了《马可·波罗》的一章，或者发现了一些有趣的新发现时，他会拿给他的妻子阅读。她对他的工作一直非常感兴趣，他也非常信任她的文学直觉，认为她是一个既有见地又有同情心的批评家。
+
+尤尔在马可·波罗研究方面的第一个成果是对颇节（Pauthier）版本的马可·波罗的评论，发表在1868年的《季刊评论》(Quarterly Review)上。
+
+1870年，他的伟大作品《马可·波罗》出版了，并迅速获得了意大利地理学会颁发的非常美丽的金质奖章的认可，随后在1872年获得了皇家地理学会的创始人奖章。同时，巴黎的地理学会和亚洲学会、意大利和柏林的地理学会、博洛尼亚学院以及其他学术机构都授予他荣誉会员的称号。
+
+---
+尤尔是出于对工作的纯粹热爱和没有期望公众认可而完成的，因此当他发现对他的《马可·波罗》的需求如此之大，以至于几年后就出版了第二版，这对他来说是一个巨大的惊喜和满足。准备这个扩大版本，以及其他各种杂项工作，使他在接下来的三年里忙得不可开交。
+
+在1875年春天，就在《马可·波罗》第二版出版后不久，尤尔不得不哀悼妻子的去世。他当时不在西西里，但在她去世几小时后才回到家中。她多年来患有严重的心脏病，但她的临走时是完全的平静。她被安葬在西西里岛蒙特佩莱格里诺（Monte Pellegrino）的美丽公墓中。只有尤尔最亲近的朋友才能真正理解她的去世对他的意义。
+
+在这场灾难之后不久，尤尔搬到了伦敦，当年秋天，他的老朋友威廉·贝克爵士（Sir William Baker）从印度委员会退休后，索尔兹伯里勋爵（Lord Salisbury）立即选择他接替空缺的席位。
 
 ---
 
-In the spring of 1864, Yule took a spacious and delightful old villa, situated in the highest part of the Bagni di Lucca,[55] and commanding lovely views over the surrounding chestnut-clad hills and winding river.
-1864 年春天，尤尔买下了一座宽敞而令人愉快的老别墅，位于巴尼迪卢卡的最高处， [55]可以俯瞰周围栗色山丘和蜿蜒河流的美景。
+在1877年，尤尔娶了他的第二任妻子，她是他的一位老朋友的女儿，比他小二十岁，是一个非常和蔼可亲的女人，直到她在1881年的不幸去世，她一直让他非常幸福。从他加入印度委员会开始，他在印度事务部的职责自然占据了他大部分的时间，但他也继续进行大量的文学工作。
 
-Here he wrote much of what ultimately took form in Cathay and the Way Thither. It was this summer, too, that Yule commenced his investigations among the Venetian archives, and also visited the province of Friuli in pursuit of materials for the history of one of his old travellers, the Beato Odorico. At Verona—then still Austrian—he had the amusing experience of being arrested for sketching too near the fortifications. However, his captors had all the usual Austrian bonhomie and courtesy, and Yule experienced no real inconvenience. He was much more disturbed when, a day or two later, the old mother of one of his Venetian acquaintances insisted on embracing him on account of his supposed likeness to Garibaldi!
-他在这里写下了《国泰与通向之路》中最终形成的大部分内容。同样是在今年夏天，尤尔开始在威尼斯档案馆中进行调查，并访问了弗留利省，为他的一位老旅行者贝阿托·奥多里科（Beato Odorico）的历史寻找材料。在维罗纳——当时还是奥地利人——他有过一次有趣的经历，因为在防御工事附近画素描而被捕。然而，逮捕他的人却表现出了奥地利人一贯的友善和礼貌，尤尔并没有遇到任何真正的不便。一两天后，当他的一位威尼斯熟人的老母亲因为他被认为与加里波第相似而坚持拥抱他时，他感到更加不安！
+在尤尔成为陆军卫生委员会成员后，与弗洛伦斯·南丁格尔（Florence Nightingale）[^nightingale]建立了联系，这是他非常珍视和享受的特权，尽管他常说：“她比皇家委员会更难应付，并且以最优雅和迷人的方式，立即发现我所不知道的一切！”
 
 ---
-
-In 1867, on his return from London, Yule commenced systematic work on his long projected new edition of the Travels of Marco Polo. It was apparently in this year that the scheme first took definite form, but it had long been latent in his mind. The Public Libraries of Palermo afforded him much good material, whilst occasional visits to the Libraries of Venice, Florence, Paris, and London, opened other sources. But his most important channel of supply came from his very extensive private correspondence, extending to nearly all parts of Europe and many centres in Asia. His work brought him many new and valued friends, indeed too many to mention, but amongst whom, as
-1867 年，尤尔从伦敦回来后，开始系统地研究 他长期计划的新版《马可·波罗游记》 。原来是 显然，今年该计划首次有了明确的形式，但是 它早已潜伏在他的脑海里。巴勒莫的公共图书馆 为他提供了很多好材料，同时偶尔还去图书馆 威尼斯、佛罗伦萨、巴黎和伦敦的人们也开辟了其他来源。但他的 最重要的供应渠道来自他非常广泛的私人 通信，几乎延伸到欧洲所有地区和许多中心 在亚洲。他的工作给他带来了许多新的、有价值的朋友，确实是太多了。 值得一提的是，但其中，
-
----
-
-Those who only knew Yule in later years, may like some account of his daily life at this time. It was his custom to rise fairly early; in summer he sometimes went to bathe in the sea,[58] or for a walk before breakfast; more usually he would write until breakfast, which he preferred to have alone. After breakfast he looked through his notebooks, and before ten o’clock was usually walking rapidly to the library where his work lay. He would work there until two or three o’clock, when he returned home, read the Times, answered letters, received or paid visits, and then resumed work on his book, which he often continued long after the rest of the household were sleeping. Of course his family saw but little of him under these circumstances, but when he had got a chapter of Marco into shape, or struck out some new discovery of interest, he would carry it to his wife to read. She always took great interest in his work, and he had great faith in her literary instinct as a sound as well as sympathetic critic.
-那些后来才了解尤尔的人可能会喜欢一些关于他此时日常生活的描述。他习惯起得很早。夏天，他有时会去海里洗澡， [58]或在早餐前散步。更常见的是，他会一直写到早餐，而他更喜欢独自吃早餐。早餐后，他翻看笔记本，通常在十点之前就快步走到他工作所在的图书馆。他会在那里工作到两三点钟，然后回到家，读《泰晤士报》 ，回信，接待或拜访，然后继续写书，而且常常在家里其他人都睡了之后，他还要继续写书。 。当然，在这种情况下，他的家人很少见到他，但是当他写完《马可》的一章，或者发现了一些有趣的新发现时，他就会把它带给他的妻子阅读。她总是对他的作品很感兴趣，而他也对她作为一个健全而富有同情心的批评家的文学本能充满信心。
-
-The first fruits of Yule’s Polo studies took the form of a review of Pauthier’s edition of Marco Polo, contributed to the Quarterly Review in 1868.
-尤尔·马可·波罗研究的第一个成果是对波蒂耶版《马可·波罗》的评论，该评论为 1868 年的《季刊评论》做出了贡献。
-
----
-
-Yule had wrought from sheer love of the work and without expectation of public recognition, and it was therefore a great surprise as well as gratification to him, to find that the demand for his Marco Polo was such as to justify the appearance of a second edition only a few years after the first. The preparation of this enlarged edition, with much other miscellaneous work (see subjoined bibliography), and the superintendence of the building of the church already named, kept him fully occupied for the next three years.
-尤尔完全出于对这部作品的热爱，并没有期望得到公众的认可，因此，当他发现对他的《马可·波罗》的需求如此之大，以至于证明第二版的出现是合理的时，他既感到惊讶又感到欣慰。第一次之后仅几年。此扩大版的准备工作，以及许多其他杂项工作（见附后的参考书目），以及对已命名的教堂建筑的监督，使他在接下来的三年里忙得不可开交。
-
----
-
-In the spring of 1875, just after the publication of the second
-1875 年春，第二本出版后不久lxiv 六十四edition of Marco Polo, Yule had to mourn the loss of his noble wife. He was absent from Sicily at the time, but returned a few hours after her death on 30th April. She had suffered for many years from a severe form of heart disease, but her end was perfect peace. She was laid to rest, amid touching tokens of both public and private sympathy, in the beautiful camposanto on Monte Pellegrino. What her loss was to Yule only his oldest and closest friends were in a position to realise. Long years of suffering had impaired neither the soundness of her judgment nor the sweetness, and even gaiety, of her happy, unselfish disposition. And in spirit, as even in appearance, she retained to the very last much of the radiance of her youth. Nor were her intellectual gifts less remarkable. Few who had once conversed with her ever forgot her, and certainly no one who had once known her intimately ever ceased to love her.[66]
-的版本 马可波罗，尤尔不得不哀悼失去他高贵的妻子。他缺席了 当时来自西西里岛，但于 30 日去世后几小时返回 四月。她多年来患有严重的心脏病， 但她的结局却是完美的平静。她被埋葬在感人的遗物中 公众和私人的同情，在蒙特美丽的坎波桑托 佩莱格​​里诺。对尤尔来说，她失去的只是他最年长和最亲密的朋友 我们能够意识到。长年的苦难并没有损害两者 她的判断力是否正确，她的甜蜜甚至欢乐 快乐、无私的性格。在精神上，甚至在外表上，她 直到最后，她仍保留着青春的光彩。她也不是 智力天赋不太引人注目。很少有人曾与她交谈过 永远不会忘记她，当然也没有一个曾经亲密认识她的人 不再爱她了。 [66]
-
-Shortly after this calamity, Yule removed to London, and on the retirement of his old friend, Sir William Baker, from the India Council early that autumn, Lord Salisbury at once selected him for the vacant seat. Nothing would ever have made him a party-man, but he always followed Lord Salisbury with conviction, and worked under him with steady confidence.
-这场灾难发生后不久，尤尔搬到了伦敦，当年秋初，他的老朋友威廉·贝克爵士从印度委员会退休后，索尔兹伯里勋爵立即选择他填补空缺席位。没有什么能让他成为一名党员，但他始终坚定地追随索尔兹伯里勋爵，并在他手下坚定地工作。
-
-
----
-
-In 1877 Yule married, as his second wife, the daughter of an old friend,[67] a very amiable woman twenty years his junior, who made him very happy until her untimely death in 1881. From the time of his joining the India Council, his duties at the India Office of course occupied a great part of his time, but he also continued to do an immense amount of miscellaneous literary work, as may be seen by reference to the subjoined bibliography,
-1877 年，尤尔与一位老人的女儿结婚，成为他的第二任妻子。 朋友， [67]一位非常和蔼可亲的女士，比他小二十岁，是她让他 非常幸福，直到1881年她英年早逝。从他加入之时起 印度理事会，他在印度办事处的职责当然占了大部分 他大部分时间都在做，但他也继续做大量的事情 杂项文学作品，可以通过参考所附的内容看到 参考书目，
-
-
----
-
-His work as a member of the Army Sanitary Committee, brought him into communication with Miss Florence Nightingale, a privilege which he greatly valued and enjoyed, though he used to say: “She is worse than a Royal Commission to answer, and, in the most gracious charming manner possible, immediately finds out all I don’t know!” Indeed his devotion to the “Lady-in-Chief” was scarcely less complete than Kinglake’s.
-作为陆军卫生委员会的成员，他的工作使他能够与弗洛伦斯·南丁格尔[^nightingale]小姐进行交流，这是他非常珍视和享受的特权，尽管他常常说：“她比皇家委员会的回答还要糟糕，而且，在以最亲切迷人的方式，立即发现我不知道的一切！”事实上，他对“总司令”的忠诚几乎不亚于金莱克。
 
 ---
 
