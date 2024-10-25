@@ -10,6 +10,8 @@ GitBook supports many different types of content, and is backed by Markdown — 
 
 Feel free to test it out and copy the Markdown below by hovering over the code block in the upper right, and pasting into a new line underneath.[^x0]
 
+[^x0]: x for 0
+
 ```markdown
 # Heading
 
@@ -28,6 +30,5 @@ If you have multiple files, GitBook makes it easy to import full repositories to
 
 test for ref[^t1]
 
-[^x0]: x for 0
 
 [^t1]: test for ref
