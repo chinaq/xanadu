@@ -1,0 +1,6 @@
+[book]
+authors = ["chinaq"]
+language = "en"
+multilingual = false
+src = "src"
+title = "From Xanadu to 3 Body Problem"
