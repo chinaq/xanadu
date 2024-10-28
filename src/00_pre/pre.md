@@ -24,20 +24,13 @@ Netflix 版开头便是一场文革批斗大会，这在国内也引起了一阵
 
 _▲从大都到上都线路图[^map]_
 
-1358 年，红巾军攻陷上都城，宫阙城池毁于兵火。2012 年，联合国教科文组织将元上都遗址列入世界遗产名录。
+1358 年，红巾军攻陷上都城，宫阙城池毁于兵火。2012 年，联合国教科文组织将元上都遗址列入世界遗产名录。“去上都”这一信念，西方更盛。
 
-<!-- <figure> -->
-  <!-- <img src="img/shangdu.jpg" alt="shangdu" width="375"> -->
-  <!-- <figcaption>元上都遗址</figcaption> -->
-<!-- </figure> -->
+> ……比如，著名旅行作家威廉·达尔瑞坡(William Dalrymple)出版于 1989 年的《在上都——一次追寻》(In Xanadu：A Quest)[^in]，记录二十二岁的他从地中海东岸出发重走马可·波罗之路，直至中国内蒙古的上都，在虚实两个层面借用了 Xanadu 的意象，可说是此书大获成功的因素之一。
 
 <img src="img/00/shangdu.jpg" alt="shangdu" width="375">
 
 _▲元上都遗址[^shangdu]_
-
-“去上都”这一信念，西方更盛。
-
-> ……比如，著名旅行作家威廉·达尔瑞坡(William Dalrymple)出版于 1989 年的《在上都——一次追寻》(In Xanadu：A Quest)[^in]，记录二十二岁的他从地中海东岸出发重走马可·波罗之路，直至中国内蒙古的上都，在虚实两个层面借用了 Xanadu 的意象，可说是此书大获成功的因素之一。
 
 ## Xanadu
 
@@ -45,20 +38,20 @@ _▲元上都遗址[^shangdu]_
 
 > **Kubla Khan**
 > 
-> In Xanadu did Kubla Khan
-> A stately pleasure-dome decree:
-> Where Alph, the sacred river, ran
-> Through caverns measureless to man
->   Down to a sunless sea.
+> In Xanadu did Kubla Khan  
+> A stately pleasure-dome decree:  
+> Where Alph, the sacred river, ran  
+> Through caverns measureless to man  
+>   Down to a sunless sea.  
 > ......
 
 > **忽必烈汗**
 >
-> 忽必烈汗把谕旨颁布：
->   在上都兴建宫苑楼台；
-> 圣河阿尔弗流经此处，
-> 穿越幽深莫测的洞窟，
->   注入阴沉的大海。
+> 忽必烈汗把谕旨颁布：  
+>   在上都兴建宫苑楼台；  
+> 圣河阿尔弗流经此处，  
+> 穿越幽深莫测的洞窟，  
+>   注入阴沉的大海。  
 > …… [^kubla]
 
 这首诗的灵感来自于柯尔律治服用鸦片后的幻觉，他在梦中看到了忽必烈汗的上都。这首诗被认为是英国浪漫主义诗歌的代表作之一。其中的 Xanadu 一词，译指“上都”，但随着时间的推移，其意象不断扩展，我们将一步一步探讨。
@@ -70,8 +63,8 @@ _▲元上都遗址[^shangdu]_
 
 [^map]: 图源罗新《从大都到上都：在古道上重新发现中国》
 
-[^shangdu]: 2021.7.21 元上都遗址（无人机照片），图源新华网[《夏日里的元上都遗址》](http://www.xinhuanet.com/photo/2021-07/22/c_1127683755.htm)
-
 [^in]: 该书 2021 年已出中文版，《仙那度：追寻马可·波罗的脚步（英）威廉·达尔林普尔，社会科学文献出版社
+
+[^shangdu]: 2021.7.21 元上都遗址（无人机照片），图源新华网[《夏日里的元上都遗址》](http://www.xinhuanet.com/photo/2021-07/22/c_1127683755.htm)
 
 [^kubla]: 中译来自《神秘诗！怪诞诗！柯尔律治的三篇代表作》（英）柯尔律治著；杨德豫译，人民文学出版社，1992
