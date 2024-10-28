@@ -1,25 +1,6 @@
----
-description: 谨以此文纪念马可波罗逝世 700 周年
-icon: route
-cover: ../.gitbook/assets/01_init_marco/marcopolo_tv.jpg
-coverY: 0
-layout:
-  cover:
-    visible: true
-    size: hero
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # 马可波罗游记的研究
+
+![logo](../img/logo.jpg)
 
 - [马可波罗游记的研究](#马可波罗游记的研究)
   - [游记的诞生](#游记的诞生)
@@ -30,22 +11,13 @@ layout:
     - [尾声](#尾声)
   - [手稿的研究](#手稿的研究)
 
-
 2024年9月20日，北京文化论坛，高启强老师全程脱稿演讲[^zhang]，讲述了中意文化交流，文化开放的重要性，获得盛赞。高老师提及了马可波罗在中意文化交流中起到的重要作用，以及《三体》在意大利受到的欢迎。寻着高老师的演讲，一起来探索马可波罗游记的变迁。
 
-<figure><img src="../.gitbook/assets/01_init_marco/macro_in_prison.jpg" alt="" width="375"><figcaption><p>张颂文 2024 北京文化论坛演讲：中国影视全球化传播中的演员责任</p></figcaption></figure>
-
-zhang
-
-![zhang](img/macro_in_prison.jpg)
-
-zhang 2
-
-<figure><img src="img/macro_in_prison.jpg" alt="" width="375"><figcaption><p>张颂文 2024 北京文化论坛演讲：中国影视全球化传播中的演员责任[^zhang]</p></figcaption></figure>
+<figure><img src="img/macro_in_prison.jpg" alt="" width="375"><figcaption><p>张颂文 2024 北京文化论坛演讲：中国影视全球化传播中的演员责任</p></figcaption></figure>
 
 ## 游记的诞生
 
-在本文[序章](01\_marco\_polo.md)中我们说到，Netflix 版《三体》中的人列计算机场景由秦始皇变为忽必烈，大军在上都集结。这上都在西方具有神圣的象征，而这一地位的确立，首先便是来自马可波罗的叙述。
+在[序章](../00_pre/pre.md)中提到，Netflix 版《三体》中的人列计算机场景由秦始皇变为忽必烈，大军在上都集结。这上都在西方具有神圣的象征，而这一地位的确立，首先便是来自马可波罗的叙述。
 
 在马可波罗从中国回到威尼斯几个月后，威尼斯派出了一支远征队去攻击热那亚舰队，据说马可·波罗指挥了一艘战舰。1298 年 9 月发生了一场战斗，威尼斯舰队被击败，马可·波罗在试图挽救局势时表现出极大的勇气，但被击伤并被俘。他被送到热那亚。
 
@@ -53,12 +25,12 @@ zhang 2
 
 “几个月内整个意大利都充满了它”，但这种流行并没有让原始文本被保存下来。
 
-从 13 世纪开始，各种语言各种版本的马可波罗游记不断出现，有法语、法意混合语、威尼斯语、托斯卡纳语、英语、德语、拉丁语等，数不胜数。直到 1871 年，英国人汉学家亨利·尤尔（Henry Yule）出版了他的英译本《马可·波罗游记》，开启了对众多版本的系统整理。
+从 13 世纪开始，各种语言各种版本的马可波罗游记不断出现，有法语、法意混合语、威尼斯语、托斯卡纳语、英语、德语、拉丁语等，数不胜数。哪种版本更可靠，更接近原始文本，他们之间各是什么关系，“剪不断理还乱”。直到 500 多年后， 1871 年，英国人汉学家亨利·尤尔（Henry Yule）出版了他的英译本《马可·波罗游记》，开启了对众多版本的系统研究。
 
 
 ## 亨利·尤尔（Henry Yule）
 
-<figure><img src="../.gitbook/assets/01_init_marco/yule.jpg" alt="" width="375"><figcaption><p>Henry Yule from <cite>THE TRAVELS OF MARCO POLO</cite> on gutenberg.org</p></figcaption></figure>
+<figure><img src="img/yule.jpg" alt="" width="375"><figcaption><p>Henry Yule from <cite>THE TRAVELS OF MARCO POLO</cite> on gutenberg.org</p></figcaption></figure>
 
 
 ### 早年
@@ -166,7 +138,7 @@ zhang 2
 
 ## 手稿的研究
 
-<figure><img src="../.gitbook/assets/01_init_marco/1871-en_yule_cover.jpg" alt="" width="375"><figcaption><p>THE BOOK OF SER MARCO POLO</p></figcaption></figure>
+<figure><img src="img/1871-en_yule_cover.jpg" alt="" width="375"><figcaption><p>THE BOOK OF SER MARCO POLO</p></figcaption></figure>
 
 Yule 将马可波罗的文本分为四种主要类型：
 
@@ -193,9 +165,9 @@ Yule 在 1871 年出版的《马可·波罗游记》中，是对法语版本的�
 
 [^memoir_of_henry]: 该节主要内容来自亨利女儿，在第三版马可波罗游记中的回忆文章， [MEMOIR OF SIR HENRY YULE from The Travels of Marco Polo — Volume 1 by Marco Polo and da Pisa Rusticiano](https://www.gutenberg.org/cache/epub/10636/pg10636-images.html#MEMOIR_OF_SIR_HENRY_YULE)
 
-[^sikh1]: 1845年至1846年期间，英国东印度公司与锡克帝国之间的一场局部战争。这场战争以英国东印度公司的胜利而告终，也使得锡克帝国的部分领土被并入英印领地。
+[^sikh1]: 1845年至1846年，英国东印度公司与锡克帝国之间的一场局部战争。以英国东印度公司的胜利而告终，也使得锡克帝国的部分领土被并入英印领地。
 
-[^sikh2]: 1848年至1849年期间，英国东印度公司与锡克帝国之间的一场局部战争。这场战争以英国东印度公司的胜利而告终，锡克帝国被征服，旁遮普地区最终成为东印度公司的西北边境省。
+[^sikh2]: 1848年至1849年，东印度公司与锡克帝国之间又一次战争。东印度公司获胜，锡克帝国被征服，旁遮普地区最终成为东印度公司的西北边境省。
 
 
 [^marsden]: 威廉·马斯登（William Marsden, 1754 - 1836）爱尔兰东方学家、钱币学家和语言学家。将意大利语版本的《马可波罗游记》翻译成英文，并在1818年出版。
@@ -210,5 +182,4 @@ Yule 在 1871 年出版的《马可·波罗游记》中，是对法语版本的�
 
 [^yule_ver3_vol1]: [The Project Gutenberg eBook of The Travels of Marco Polo - Volume 1](https://www.gutenberg.org/ebooks/10636)
 
-
-[^yule_ver3_vol2]: [The Project Gutenberg eBook of The Travels of Marco Polo — Volume 2](https://www.gutenberg.org/ebooks/12410)
+[^yule_ver3_vol2]: [The Project Gutenberg eBook of The Travels of Marco Polo - Volume 2](https://www.gutenberg.org/ebooks/12410)
