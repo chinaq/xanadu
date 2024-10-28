@@ -12,7 +12,7 @@ Netflix 版开头便是一场文革批斗大会，这在国内也引起了一阵
 
 大刘的科幻作品中杂糅了未来、科技、人文、历史等等。《三体》中的人列计算机一幕，便是其中的代表。但这一幕在 Netflix 版中经过了改写，原著中，这一人列计算机军队来自秦始皇，而 Netflix 版变成了忽必烈，更重要的是他们所处之地名为“上都”。这一切由何而来？
 
-<img src="img/3body.webp" alt="3body" width="375">
+<img src="img/00/3body.webp" alt="3body" width="375">
 
 ## 从大都到上都
 2019 年 5 月 25 日下午，第十七届华语文学传媒盛典在北京举行。北大教授罗新徒步追随蒙元帝王的辇路而写下的《从大都到上都：在古道上重新发现中国》，为他赢得第“年度散文家”的殊荣。[^luoxin]
@@ -20,7 +20,7 @@ Netflix 版开头便是一场文革批斗大会，这在国内也引起了一阵
 成吉思汗之孙忽必烈称汗后建立两都制，以燕京（今北京）为大都，以开平为上都。上都位于今内蒙古自治区锡林郭勒盟正蓝旗上都镇。
 
 
-<img src="img/map.jpg" alt="map" width="375">
+<img src="img/00/map.jpg" alt="map" width="375">
 
 _▲从大都到上都线路图[^map]_
 
@@ -31,7 +31,7 @@ _▲从大都到上都线路图[^map]_
   <!-- <figcaption>元上都遗址</figcaption> -->
 <!-- </figure> -->
 
-<img src="img/shangdu.jpg" alt="shangdu" width="375">
+<img src="img/00/shangdu.jpg" alt="shangdu" width="375">
 
 _▲元上都遗址[^shangdu]_
 
