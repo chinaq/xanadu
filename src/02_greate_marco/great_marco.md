@@ -115,7 +115,7 @@ Marco Polo, 1254—1324
 
 ### 手稿数量
 
-* co-yu: 73 -> 85
+* co-yu: 75 -> 78 -> 85
 * benedetto: 78 + 60
 * moule: 150, 143, 119
 * dutschke, 1993: 135

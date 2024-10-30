@@ -122,7 +122,22 @@ Yule 将马可波罗的文本分为四种主要类型：
 [R | 意大利语 by Ramusio]
 ```
 
+```mermaid
+graph TD
+    F[法意混合语]
+    FG[宫廷法语]
+    P[拉丁语 by Pipno]
+    R[意大利语 by Ramusio]
+```
+
 Yule 在 1871 年出版的《马可·波罗游记》中，是对法语版本的英文翻译，但是他未使用 fr. 1116，而是使用了颇节（Pauthier）的所整理过的宫廷法语版本。尽管 Yule 承认 fr. 1116 是最好的文本，但他认为其语言的笨拙和冗长使其无法使用。
+
+### v2, v3
+
+- v2
+> In the first edition of this work a detailed list of these MSS. was given, with particulars regarding most of them. It is not thought needful to reprint this, and only an abstract statement will be given. I have since the first edition been able to add only three to the list. 
+
+75 -> 78 -> 85
 
 
 [^zhang]: [张颂文北京文化论坛最新演讲，全程脱稿，声音好听：中国影视全球化传播中的演员责任](https://b23.tv/9zkFkz2)
