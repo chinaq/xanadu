@@ -135,13 +135,13 @@ _▲ Henry Cordier by Caillebotte Gustave[^cordier]_
 
 科迪耶于1869年2月18日从马赛启程；经过两次转船，他于4月7日抵达上海，进入了大型美国公司拉塞尔公司（Russell and Co），很快被委以重任，直到1876年3月31日离开中国回到法国。在中国期间，他结识了一些优秀学者，为日后学术研究奠定基础。
 
-在中国期间，1871年，21岁的他成为英国皇家亚洲学会北中国分会（North China Branch of the Royal Asiatic Society）的名誉图书馆员，1872年开启学术生涯，致力于图书馆方法目录工作。他对图书馆学兴趣浓厚，编制了《中国图书馆》（*Bibliotheca Sinica*）、《日本图书馆》（*Bibliotheca Japonica*）、《印度支那图书馆》（*Bibliotheca Indosinica*）等重要目录学著作，尽管存在瑕疵，但极具价值。
+在中国期间，1871年，22岁的他成为英国皇家亚洲学会北中国分会（North China Branch of the Royal Asiatic Society）的名誉图书馆员，1872年开启学术生涯，致力于图书馆方法目录工作。他对图书馆学兴趣浓厚，编制了《中国图书馆》（*Bibliotheca Sinica*）、《日本图书馆》（*Bibliotheca Japonica*）、《印度支那图书馆》（*Bibliotheca Indosinica*）等重要目录学著作，尽管存在瑕疵，但极具价值。
 
 1877年，28岁的科迪耶计划再次前往远东，却在途中收到担任中国教育代表团秘书的邀请，于是返回巴黎，此后再未回到中国。
 
 1877年3月19日，科迪耶在《评论》发表首篇文章，评论路易·德·巴克尔的《中世纪的远东》，开启历史地理学研究。1882年，他与查尔斯·谢弗合作编辑《从十三世纪到十六世纪末的地理历史的旅行和文献集》系列丛书，其发表的《十四世纪的亚洲旅行》（*Les Voyages en Asie au XIV V siecle du bienheureux freie Odoric de Pordenone*）注释丰富，不过将注释附于奥德里克旧法语译本存在不足。
 
-科迪耶与亨利·尤尔上校的交往意义深远。尤尔上校1866年出版《契丹与通往契丹的道路》（*Cathay and the Way thither*），1871年和1875年出版《马可·波罗的书》（*The Book of _Ser Marco Polo*）。1877年科迪耶回国后结识尤尔上校，当时尤尔已在学术上颇有建树。1889年12月30日尤尔去世后，科迪耶受委托修订《马可·波罗的书》，1903年新版本出版，1920年又增补《注释和附录》（*Notes and Addenda*）。但他也意识到现有文本存在翻译、名字变体标注等问题，认为后续需新手稿对照。后来他还应哈克卢特学会邀请，重新出版尤尔的《契丹与通往契丹的道路》（1913 - 1916年），分四卷且索引更好，虽部分内容后渐过时，但仍是重要资料。
+科迪耶与亨利·尤尔上校的交往意义深远。尤尔上校1866年出版《契丹与通往契丹的道路》（*Cathay and the Way thither*），1871年和1875年出版《马可·波罗游记》（*The Book of Ser Marco Polo*）。1877年科迪耶回国后结识尤尔上校，当时尤尔已在学术上颇有建树。1889年12月30日尤尔去世后，科迪耶受委托修订《马可·波罗游记》，1903年新版本出版，1920年又增补《注释和附录》（*Notes and Addenda*）。但他也意识到现有文本存在翻译、名字变体标注等问题，认为后续需新手稿对照。后来他还应哈克卢特学会邀请，重新出版尤尔的《契丹与通往契丹的道路》（1913 - 1916年），分四卷且索引更好，虽部分内容后渐过时，但仍是重要资料。
 
 科迪耶一直致力于古代欧洲旅行者在亚洲的研究，去世前刚完成对多米尼克修士乔丹·卡塔拉《奇迹描述》（*Mirabilia descripta*）的翻译和注释。
 
@@ -152,8 +152,8 @@ _▲ Henry Cordier by Caillebotte Gustave[^cordier]_
 1925年3月16日，亨利·科迪耶（Henri Cordier）整个上午都在工作。当他放下笔时，他刚刚写完了《东方学报》（T'oung Pao）最新一期上刊登的亚历山大·霍西爵士（sir Alexander Hosie）的讣告。作为地理学会的主席，他被邀请参加埃及大臣法赫里帕夏（Fakhry Pacha）为即将前往开罗地理大会的法国代表团举办的午宴。科迪耶正要走上巴黎马杰斯蒂克酒店（Hotel Majestic）的台阶时，突然倒在了德拉龙西埃尔先生（M. de la Ronciere）的怀里，后者刚好几分钟前与他偶遇。他被送回家，渐渐昏睡过去，当晚去世。
 
 
-## 手稿研究的黄金时代
-科迪耶的学生中，有一位叫做伯希和（Paul Pelliot）的年轻学者，日后成为法国东方学的一位杰出代表。《马可·波罗游记》的手稿，将迎来黄金时代。
+## 黄金时代，待续……
+科迪耶的学生中，有一位叫做伯希和（Paul Pelliot）的年轻学者，日后成为法国东方学的一位杰出代表。前一节的科迪耶简介便是编译自伯希和撰写的纪念文章[^cordier_by_pelliot]。《马可·波罗游记》的手稿，将迎来黄金时代。
 
 
 [^zhang]: [张颂文北京文化论坛最新演讲，全程脱稿，声音好听：中国影视全球化传播中的演员责任](https://b23.tv/9zkFkz2)
@@ -175,9 +175,15 @@ _▲ Henry Cordier by Caillebotte Gustave[^cordier]_
 
 [^nightingale]: 弗洛伦斯·南丁格尔（Florence Nightingale，1820－1910），英国护士，近代护理学和护士教育创始人。在克里米亚战争期间（1853-1856年）因其在战地医院的工作而闻名，她改善了伤员的护理条件，显著降低了死亡率；南丁格尔经常在黑夜中提灯巡视病房，又被誉为“提灯女士”。
 
+[^v2]: "In the first edition of this work a detailed list of these MSS. was given, with particulars regarding most of them. It is not thought needful to reprint this, and only an abstract statement will be given. I have since the first edition been able to add only three to the list." from Yule, The Book of Ser Marco Polo, 2nd edition.
+
 [^cordier]: https://www.musee-orsay.fr/en/artworks/henri-cordier-107
 
-[^v2]: "In the first edition of this work a detailed list of these MSS. was given, with particulars regarding most of them. It is not thought needful to reprint this, and only an abstract statement will be given. I have since the first edition been able to add only three to the list." from Yule, The Travels of Marco Polo, 2nd edition.
+[^cordier_by_pelliot]: Henri Cordier (1849-1925)  
+  Author(s): Paul Pelliot  
+  Source: T'oung Pao, Second Series, Vol. 24, No. 1 (1925 - 1926), pp. 1-15  
+  Published by: BRILL  
+  Stable URL: http://www.jstor.org/stable/4526773
 
 [^yule_ver3_vol1]: [The Project Gutenberg eBook of The Travels of Marco Polo - Volume 1](https://www.gutenberg.org/ebooks/10636)
 
