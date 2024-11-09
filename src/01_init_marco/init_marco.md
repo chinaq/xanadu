@@ -115,29 +115,45 @@ Yule 将马可波罗的文本分为四种主要类型：
 * (4) 拉穆西奥（Ramusio）的意大利文本。
   * 在拉穆西奥版本中嵌入了旅行者在其生命晚期记录下来的补充回忆，但这些回忆被多次翻译、编纂和编辑处理。拉穆西奥还从用了那些仅在他的版本中找到的段落。
 
-```nomnoml
-[F  | 法意混合语]
-[FG | 宫廷法语]
-[P | 拉丁语 by Pipno]
-[R | 意大利语 by Ramusio]
-```
-
-```mermaid
-graph TD
-    F[法意混合语]
-    FG[宫廷法语]
-    P[拉丁语 by Pipno]
-    R[意大利语 by Ramusio]
-```
+<img src="img/marco_versions_yule.png" width="564">
+<!-- ![marco verions yule](img/marco_versions_yule.png) -->
 
 Yule 在 1871 年出版的《马可·波罗游记》中，是对法语版本的英文翻译，但是他未使用 fr. 1116，而是使用了颇节（Pauthier）的所整理过的宫廷法语版本。尽管 Yule 承认 fr. 1116 是最好的文本，但他认为其语言的笨拙和冗长使其无法使用。
 
-### v2, v3
+在第一版中，Yule 详细列出了手稿 75 种，但在第二版中，他只给出了一个摘要陈述。他在第一版之后只能增加了3个手稿[^v2]。Yule 生前未能来得及出版第三版，后来由他女儿委托亨利·科迪耶（Henri Cordier）编辑出版，共收入了 Yule 列出的手稿 83 种，外加科迪耶发现的 2 种手稿。所以三版的手稿数分别是 75、78、85。
 
-- v2
-> In the first edition of this work a detailed list of these MSS. was given, with particulars regarding most of them. It is not thought needful to reprint this, and only an abstract statement will be given. I have since the first edition been able to add only three to the list. 
 
-75 -> 78 -> 85
+## 亨利·科迪耶 Henri Cordier
+
+<img src="img/cordier.jpg" alt="" width="375">
+
+_▲ Henry Cordier by Caillebotte Gustave[^cordier]_
+
+亨利·科迪耶（Henri Cordier）于1849年8月8日出生在美国新奥尔良，其家族起源于法国萨瓦地区，他还有两个弟弟。亨利早年辗转于多所学院接受教育，包括夏普塔尔学院（College Chaptal）、马森学院（Institution Massin）等。
+
+1859 年，他的父亲欧内斯特·科迪耶（Ernest Cordier）被委派在上海创办贴现银行（Comptoir d'Escompte）的代理处，不久他的妻子和小儿子也随他前往。两个大儿子住在他们的亲戚卡耶博特家；亨利·科迪耶的肖像是卡耶博特所作，现在有人希望将其捐赠给我们的国家收藏。欧内斯特·科迪耶和家人于1864年从中国回来。1865年，亨利·科迪耶与父亲一起首次前往英国；然后他在那里生活了两年，从1867年到1869年，以便深入学习语言。他本想进入国家档案学校（Ecole des Chartes），但他的父亲看到他在商业上有更大的前途，决定送他去上海，那里有许多朋友。
+
+科迪耶于1869年2月18日从马赛启程；经过两次转船，他于4月7日抵达上海，进入了大型美国公司拉塞尔公司（Russell and Co），很快被委以重任，直到1876年3月31日离开中国回到法国。在中国期间，他结识了一些优秀学者，为日后学术研究奠定基础。
+
+在中国期间，1871年，21岁的他成为英国皇家亚洲学会北中国分会（North China Branch of the Royal Asiatic Society）的名誉图书馆员，1872年开启学术生涯，致力于图书馆方法目录工作。他对图书馆学兴趣浓厚，编制了《中国图书馆》（*Bibliotheca Sinica*）、《日本图书馆》（*Bibliotheca Japonica*）、《印度支那图书馆》（*Bibliotheca Indosinica*）等重要目录学著作，尽管存在瑕疵，但极具价值。
+
+1877年，28岁的科迪耶计划再次前往远东，却在途中收到担任中国教育代表团秘书的邀请，于是返回巴黎，此后再未回到中国。
+
+1877年3月19日，科迪耶在《评论》发表首篇文章，评论路易·德·巴克尔的《中世纪的远东》，开启历史地理学研究。1882年，他与查尔斯·谢弗合作编辑《从十三世纪到十六世纪末的地理历史的旅行和文献集》系列丛书，其发表的《十四世纪的亚洲旅行》（*Les Voyages en Asie au XIV V siecle du bienheureux freie Odoric de Pordenone*）注释丰富，不过将注释附于奥德里克旧法语译本存在不足。
+
+科迪耶与亨利·尤尔上校的交往意义深远。尤尔上校1866年出版《契丹与通往契丹的道路》（*Cathay and the Way thither*），1871年和1875年出版《马可·波罗的书》（*The Book of _Ser Marco Polo*）。1877年科迪耶回国后结识尤尔上校，当时尤尔已在学术上颇有建树。1889年12月30日尤尔去世后，科迪耶受委托修订《马可·波罗的书》，1903年新版本出版，1920年又增补《注释和附录》（*Notes and Addenda*）。但他也意识到现有文本存在翻译、名字变体标注等问题，认为后续需新手稿对照。后来他还应哈克卢特学会邀请，重新出版尤尔的《契丹与通往契丹的道路》（1913 - 1916年），分四卷且索引更好，虽部分内容后渐过时，但仍是重要资料。
+
+科迪耶一直致力于古代欧洲旅行者在亚洲的研究，去世前刚完成对多米尼克修士乔丹·卡塔拉《奇迹描述》（*Mirabilia descripta*）的翻译和注释。
+
+在其他学术贡献方面，他在远东历史、地理和法律研究广泛，出版诸多作品，如《十八世纪的法国在中国》（*La France en Chine au XvIIe siecle*）、《十八世纪的中国在法国》（*La Chine en France au XVIiie siecle*）等。他还出版《中国及其与外国关系的通史》（*Histoire ge'ne'rale de la Chine et de ses relations avec les pays etrangers depuis les temps les plus anciens jusqu'à la chute de la dynastie mandchoue*），虽有不足但仍具价值且计划英译。
+
+科迪耶他荣获众多荣誉，包括1921年成为法国荣誉军团骑士、1908年当选法兰西学院院士等，还担任多个协会职务。他在学院时热情待人，为年轻人提供帮助，对法国远东学者影响深远。
+
+1925年3月16日，亨利·科迪耶（Henri Cordier）整个上午都在工作。当他放下笔时，他刚刚写完了《东方学报》（T'oung Pao）最新一期上刊登的亚历山大·霍西爵士（sir Alexander Hosie）的讣告。作为地理学会的主席，他被邀请参加埃及大臣法赫里帕夏（Fakhry Pacha）为即将前往开罗地理大会的法国代表团举办的午宴。科迪耶正要走上巴黎马杰斯蒂克酒店（Hotel Majestic）的台阶时，突然倒在了德拉龙西埃尔先生（M. de la Ronciere）的怀里，后者刚好几分钟前与他偶遇。他被送回家，渐渐昏睡过去，当晚去世。
+
+
+## 手稿研究的黄金时代
+科迪耶的学生中，有一位叫做伯希和（Paul Pelliot）的年轻学者，日后成为法国东方学的一位杰出代表。《马可·波罗游记》的手稿，将迎来黄金时代。
 
 
 [^zhang]: [张颂文北京文化论坛最新演讲，全程脱稿，声音好听：中国影视全球化传播中的演员责任](https://b23.tv/9zkFkz2)
@@ -158,6 +174,10 @@ Yule 在 1871 年出版的《马可·波罗游记》中，是对法语版本的�
 [^hakluyt]: 哈克卢特学会（Hakluyt Society）是一个专注于出版和研究早期探险和旅行文献的学术组织。学会成立于1846年，以纪念英国地理学家和历史学家理查德·哈克卢特（Richard Hakluyt，约1552年－1616年）。后续我们会继续提到 Hankluyt，他与“上都”有着那么一条细细的连线。
 
 [^nightingale]: 弗洛伦斯·南丁格尔（Florence Nightingale，1820－1910），英国护士，近代护理学和护士教育创始人。在克里米亚战争期间（1853-1856年）因其在战地医院的工作而闻名，她改善了伤员的护理条件，显著降低了死亡率；南丁格尔经常在黑夜中提灯巡视病房，又被誉为“提灯女士”。
+
+[^cordier]: https://www.musee-orsay.fr/en/artworks/henri-cordier-107
+
+[^v2]: "In the first edition of this work a detailed list of these MSS. was given, with particulars regarding most of them. It is not thought needful to reprint this, and only an abstract statement will be given. I have since the first edition been able to add only three to the list." from Yule, The Travels of Marco Polo, 2nd edition.
 
 [^yule_ver3_vol1]: [The Project Gutenberg eBook of The Travels of Marco Polo - Volume 1](https://www.gutenberg.org/ebooks/10636)
 
