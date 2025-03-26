@@ -1,0 +1,1 @@
+<img src="img/cover_xanadu.jpg" alt="cover" style="width: 564px;"/>
